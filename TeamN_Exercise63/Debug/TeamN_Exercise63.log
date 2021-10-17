@@ -1,0 +1,6 @@
+﻿  TeamN_Exercise63.cpp
+C:\Users\Charles\source\repos\TeamN_Exercise63\TeamN_Exercise63.cpp(52,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Charles\source\repos\TeamN_Exercise63\TeamN_Exercise63.cpp(56,31): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Charles\source\repos\TeamN_Exercise63\TeamN_Exercise63.cpp(84,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Charles\source\repos\TeamN_Exercise63\TeamN_Exercise63.cpp(91,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  TeamN_Exercise63.vcxproj -> C:\Users\Charles\source\repos\TeamN_Exercise63\Debug\TeamN_Exercise63.exe

@@ -1,0 +1,3 @@
+﻿  TeamN_Exercise31.cpp
+C:\Users\Charles\source\repos\TeamN_Exercise31\TeamN_Exercise31.cpp(10,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  TeamN_Exercise31.vcxproj -> C:\Users\Charles\source\repos\TeamN_Exercise31\Debug\TeamN_Exercise31.exe

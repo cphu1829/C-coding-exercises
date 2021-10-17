@@ -1,0 +1,7 @@
+﻿  TeamN_Exercise43.cpp
+C:\Users\Charles\source\repos\TeamN_Exercise43\TeamN_Exercise43.cpp(44,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Charles\source\repos\TeamN_Exercise43\TeamN_Exercise43.cpp(47,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Charles\source\repos\TeamN_Exercise43\TeamN_Exercise43.cpp(50,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Charles\source\repos\TeamN_Exercise43\TeamN_Exercise43.cpp(53,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Charles\source\repos\TeamN_Exercise43\TeamN_Exercise43.cpp(15,12): warning C4390: ';': empty controlled statement found; is this the intent?
+  TeamN_Exercise43.vcxproj -> C:\Users\Charles\source\repos\TeamN_Exercise43\Debug\TeamN_Exercise43.exe

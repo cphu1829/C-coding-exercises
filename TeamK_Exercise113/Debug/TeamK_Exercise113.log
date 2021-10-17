@@ -1,0 +1,3 @@
+﻿  TeamK_Exercise113.cpp
+C:\Users\Charles\source\repos\TeamK_Exercise113\TeamK_Exercise113.cpp(37): warning C4715: 'getEmptyPosition': not all control paths return a value
+  TeamK_Exercise113.vcxproj -> C:\Users\Charles\source\repos\TeamK_Exercise113\Debug\TeamK_Exercise113.exe

@@ -1,0 +1,3 @@
+﻿  TeamN_Exercise21.cpp
+C:\Users\Charles\source\repos\TeamN_Exercise21\TeamN_Exercise21.cpp(14,2): error C2146: syntax error: missing ';' before identifier 'cout'
+C:\Users\Charles\source\repos\TeamN_Exercise21\TeamN_Exercise21.cpp(17,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
